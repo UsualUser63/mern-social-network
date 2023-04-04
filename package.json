@@ -1,0 +1,15 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "pet-project",
+  "main": "index.js",
+  "repository": "git@github.com:UsualUser63/mern-social-network.git",
+  "author": "UsualUser <katyushkinaalina@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  }
+}
